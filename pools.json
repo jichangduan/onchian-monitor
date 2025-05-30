@@ -1,0 +1,222 @@
+[
+  {
+    "id": "0x277667eb3e34f134adf870be9550e9f323d0dc24",
+    "token0": {
+      "id": "0x160de4468586b6b2f8a92feb0c260fc6cfc743b1",
+      "symbol": "ease.org"
+    },
+    "token1": {
+      "id": "0xea5edef1c6ed1be1bcba4617a1c5a994e9018a43",
+      "symbol": "ez-cvxsteCRV"
+    }
+  },
+  {
+    "id": "0x8c0411f2ad5470a66cb2e9c64536cfb8dcd54d51",
+    "token0": {
+      "id": "0x160de4468586b6b2f8a92feb0c260fc6cfc743b1",
+      "symbol": "ease.org"
+    },
+    "token1": {
+      "id": "0xea5edef1fcf717327440646e7302ca058dde844f",
+      "symbol": "ez-yvCurve-IronBank"
+    }
+  },
+  {
+    "id": "0x055284a4ca6532ecc219ac06b577d540c686669d",
+    "token0": {
+      "id": "0x160de4468586b6b2f8a92feb0c260fc6cfc743b1",
+      "symbol": "ease.org"
+    },
+    "token1": {
+      "id": "0xea5edef10f8255cd03541e8ff163a2836e0d7bd3",
+      "symbol": "ez-SLP-WBTC-WETH"
+    }
+  },
+  {
+    "id": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "token0": {
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "token0": {
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+    "token0": {
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35",
+    "token0": {
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+    "token0": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+    "token0": {
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0x11b815efb8f581194ae79006d24e0d814b7697f6",
+    "token0": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x11950d141ecb863f01007add7d1a342041227b58",
+    "token0": {
+      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+    "token0": {
+      "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0x9db9e0e53058c89e5b94e29621a205198648425b",
+    "token0": {
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xe8f7c89c5efa061e340f2d2f206ec78fd8f7e124",
+    "token0": {
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "symbol": "cbBTC"
+    }
+  },
+  {
+    "id": "0x5777d92f208679db4b9778590fa3cab3ac9e2168",
+    "token0": {
+      "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI"
+    },
+    "token1": {
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+    "token0": {
+      "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801",
+    "token0": {
+      "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0xf239009a101b6b930a527deaab6961b6e7dec8a6",
+    "token0": {
+      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
+    }
+  },
+  {
+    "id": "0x5796d7ad51583ae2c7297652edb7006bcd90519d",
+    "token0": {
+      "id": "0x0071f94350573cd411e40bb409e7ddd927224054",
+      "symbol": "HKDM"
+    },
+    "token1": {
+      "id": "0xbbaec992fc2d637151daf40451f160bf85f3c8c1",
+      "symbol": "USDM"
+    }
+  },
+  {
+    "id": "0x3416cf6c708da44db2624d63ea0aaef7113527c6",
+    "token0": {
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT"
+    }
+  }
+]

@@ -22,7 +22,7 @@ async function fetchPoolData() {
             const liquidity = await poolContract.liquidity()
             console.log(`池子：${pool.id}`)
             console.log(`   代币：${pool.token0.symbol} - ${pool.token1.symbol}`)
-            console.log(`   价格：${pool.sqrtPriceX96.toString()}`)
+            console.log(`   价格：${slot0.sqrtPriceX96.toString()}`)
             console.log(`   流动性：${liquidity.toString()} \n`)
 
         } catch (err){

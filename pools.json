@@ -121,17 +121,6 @@
     }
   },
   {
-    "id": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
-    "token0": {
-      "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
-      "symbol": "LINK"
-    },
-    "token1": {
-      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "symbol": "WETH"
-    }
-  },
-  {
     "id": "0x9db9e0e53058c89e5b94e29621a205198648425b",
     "token0": {
       "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -140,6 +129,17 @@
     "token1": {
       "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+    "token0": {
+      "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
     }
   },
   {
@@ -187,17 +187,6 @@
     }
   },
   {
-    "id": "0xf239009a101b6b930a527deaab6961b6e7dec8a6",
-    "token0": {
-      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-      "symbol": "PEPE"
-    },
-    "token1": {
-      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "symbol": "WETH"
-    }
-  },
-  {
     "id": "0x5796d7ad51583ae2c7297652edb7006bcd90519d",
     "token0": {
       "id": "0x0071f94350573cd411e40bb409e7ddd927224054",
@@ -206,6 +195,17 @@
     "token1": {
       "id": "0xbbaec992fc2d637151daf40451f160bf85f3c8c1",
       "symbol": "USDM"
+    }
+  },
+  {
+    "id": "0xf239009a101b6b930a527deaab6961b6e7dec8a6",
+    "token0": {
+      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE"
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH"
     }
   },
   {
